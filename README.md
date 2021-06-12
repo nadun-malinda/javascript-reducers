@@ -1,1 +1,3 @@
-# javascript-reducers
+## Install
+- git clone 
+- cd javascript-reducers
